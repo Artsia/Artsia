@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Phillip.
+
+
+## Front-end Developer | React | Javascript | CSS | Node | I'm a UI Enthusiast
 
 <!--
-**Artsia/Artsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Artsia/Artsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning MongoDB and Nodejs.
+- 🤔 I’m looking for help with interview preparation.
+- 📫 How to reach me: tomphillip756@gmail.com
 - ⚡ Fun fact: ...
--->
+- 💁‍♀️ Social Medias: [![linkedin](https://github.com/phillip-kataswa-2a4653218/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
+
+[4]: https://www.linkedin.com/in/phillip-kataswa-2a4653218/
+
