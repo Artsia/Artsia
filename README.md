@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Phillip.
+## Hi there 👋, my name is Phillip.
 
 
-## Front-end Developer | React | Javascript | CSS | Node | I'm a UI Enthusiast
+### Front-end Developer | React | Javascript | CSS | Node | I'm a UI Enthusiast
 
 <!--
 **Artsia/Artsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
