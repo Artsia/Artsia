@@ -6,7 +6,7 @@
 <!--
 **Artsia/Artsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🌱 I’m currently learning MongoDB and Nodejs.
+- 🌱 I’m currently learning MongoDB,Nodejs, and React.
 - 🤔 I’m looking for help with interview preparation.
 - 📫 How to reach me: tomphillip756@gmail.com
 - 💁‍♀️ Social Medias: [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
