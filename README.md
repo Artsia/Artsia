@@ -11,10 +11,10 @@
 - 📫 How to reach me: tomphillip756@gmail.com
 - 💁‍♀️ Social Medias: [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][1]
 - 💁‍♀️ Social Medias: [![Medium](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Medium.png (Medium))][2]
-- 
-- 💁‍♀️ Social Medias: [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][3]
-- 💁‍♀️ Social Medias: [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
+- 💁‍♀️ Social Medias: [![iFixit](https://github.com/Artsia/Git-Social/blob/master/Icons/th.png (iFixit))][3]
+
 
 [1]: https://www.linkedin.com/in/phillip-kataswa-2a4653218/
 [2]: https://medium.com/@PhillipKataswa
+[3]: https://www.ifixit.com/Guide/2011+Ford+Fiesta+Headlight+Replacement/143721
 
